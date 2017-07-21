@@ -1,0 +1,7 @@
+{
+	"name": "chemspeller",
+	"authors": [
+		"Saurabh Totey"
+	],
+	"description": "A program that takes a string input and then outputs that string with as many elements replacing letters as possible. If there are multiple possibilities for amount of elements in a string, the tie is broken by the string with highest overall atomic number."
+}

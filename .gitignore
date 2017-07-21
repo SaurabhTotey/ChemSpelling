@@ -1,0 +1,6 @@
+
+\.idea/
+*.exe
+\.dub/
+out/production/ChemSpelling/
+*.iml
